@@ -43,7 +43,7 @@ gantt
     系統介面/功能設計                :       a5, after a3, 10d
 
     section 開發階段
-    後端程式開發與資料庫設計      :        a6, after a4, 30d
+    後端程式開發與資料庫設計      :        a6, after a4, 35d
     前端設計與開發           :        a7, after a5, 25d
 
     section 測試與上線階段
