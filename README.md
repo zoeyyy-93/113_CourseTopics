@@ -47,7 +47,7 @@ gantt
     前端設計與開發           :        a7, after a5, 25d
 
     section 測試與上線階段
-    系統整合測試            :        a8, after a5, 10d
-    系統上線準備與測試        :        a9, after a6, 12d
-    正式上線與評估           :        a10, after a7, 12d
+    系統整合測試            :        a8, after a5, 13d
+    系統上線準備與測試        :        a9, after a6, 15d
+    正式上線與評估           :        a10, after a7, 15d
 ```
