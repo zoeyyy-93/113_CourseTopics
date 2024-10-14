@@ -38,7 +38,7 @@ gantt
     專題內容大綱與流程擬定        :active,  a2, after a1, 4d
 
     section 分析與設計階段
-    需求與市場分析           :         a3, after a2, 17d
+    需求與市場分析           :         a3, after a2, 19d
     任務分配與資源配置        :        a4, after a2, 30d
     系統介面/功能設計                :       a5, after a3, 10d
 
